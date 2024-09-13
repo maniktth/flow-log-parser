@@ -1,7 +1,7 @@
-# Cloud Security Flow Log Parser
+# Flow Log Parser
 
 ## Project goal
-The goal of this project is to parse flow log data from cloud security software and map each row to a tag based on a lookup table.
+The goal of this project is to parse flow log data from AWS VPC and map each row to a tag based on a lookup table.
 
 ## Important files
 - `FlowLogParser.java`: Main Java file containing the parsing logic
